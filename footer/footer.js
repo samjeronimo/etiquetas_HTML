@@ -1,5 +1,6 @@
 let dom_footer = document.querySelector(".footer")
 
 dom_footer.innerHTML = `
-    hola soy footer
+    <h1>SCl</h1>
+    <h2>@sajeronimo</h2>
 `;

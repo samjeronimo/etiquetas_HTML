@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.7rem 0.6rem;
+}
+
+header span {
+    background-color: gray;
+    border-radius: 3px;
+    padding: 0.1rem 0.7rem;
+    color: white;
+}
+
+.git {
+    background-color: green;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+}
