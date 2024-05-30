@@ -16,10 +16,19 @@ header span {
     background-color: green;
     border-radius: 3px;
     padding: 0.5rem 1rem;
+<<<<<<< HEAD
 }
 
 .git a {
     font-size: 1.4rem;
     color: white;
     text-decoration: none;
+=======
+    font-size: 1.2rem;
+}
+
+.git a {
+    text-decoration: none;
+    color: white;
+>>>>>>> 1eb42fa7ad8d99daf2955a95052e19709a70edb3
 }
