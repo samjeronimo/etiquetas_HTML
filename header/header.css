@@ -17,3 +17,9 @@ header span {
     border-radius: 3px;
     padding: 0.5rem 1rem;
 }
+
+.git a {
+    font-size: 1.4rem;
+    color: white;
+    text-decoration: none;
+}
